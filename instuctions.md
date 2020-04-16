@@ -86,3 +86,15 @@
 	-   Une image liée à l’actualité
 	-   Une introduction de l’actualité
 
+### Ajouter vos premières règles CSS
+
+> Pour votre projet présentant un département de France, vous allez ajouter une feuille de style et gérer le texte. Vous devez
+
+- [x] définir une police de caractère pour votre slogan
+- [x] définir une police de caractère pour le texte courant
+- [x] définir la taille des caractères pour le texte courant
+- [x] définir la taille des caractères pour les titres
+- [x] définir la taille des caractères pour le pied de page
+- [x] définir la taille des caractères pour votre slogan
+
+
