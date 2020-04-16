@@ -1,0 +1,17 @@
+/* imports */
+
+@font-face {
+  font-family: merriweather;
+  src: local("fonts/Merriweather-Bold.otf");
+}
+
+/* slogan  */
+
+#slogan {
+  font-family: "merriweather";
+}
+
+/* text */
+p {
+  font-family: "Source Sans Pro";
+}
