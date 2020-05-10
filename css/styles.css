@@ -24,7 +24,7 @@
         url('../fonts/Merriweather-Bold.woff') format('woff'),
         url('../fonts/Merriweather-Bold.ttf') format('truetype'),
         url('../fonts/Merriweather-Bold.svg#Merriweather-Bold') format('svg');
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
 }
 
@@ -36,50 +36,20 @@
 
 
 /* global */
-html {
-  font-size: 18px;
-}
+
 
 
 /* headings */
-h1 {
-  font-size: 2.5rem;
-}
+h1 {font-size: 2.5rem;}
+h2 {font-size: 2.2rem;}
+h3 {font-size: 2rem;}
+h4 {font-size: 1.8rem;}
+h5 {font-size: 1.6rem;}
+h6 {font-size: 1.4rem;}
 
-h2 {
-  font-size: 2.2rem;
-}
-
-h3 {
-  font-size: 2rem;
-}
-
-h4 {
-  font-size: 1.8rem;
-}
-
-h5 {
-  font-size: 1.6rem;
-}
-
-h6 {
-  font-size: 1.4rem;
-}
-
-
-/* contenu */
-
-p {
-  font-family: "Source Sans Pro";
-}
-
-li {
-  font-family: "Source Sans Pro";
-}
-
-footer {
-  font-size: 0.9rem;
-}
+p {font-family: "Source Sans Pro";}
+li {font-family: "Source Sans Pro";}
+footer {font-size: 0.9rem;}
 
 #slogan {
   font-family: "Merriweather";
